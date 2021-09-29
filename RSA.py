@@ -62,4 +62,6 @@ d=value_of_d(m,e)
 h=22 # sample data to check
 enc=encryption(e,n,h)
 dec=decryption(d,n,enc)
-print(dec)
+print("encryption of h is: " enc)
+print("decryption of h is: "dec)
+
