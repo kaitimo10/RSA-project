@@ -1,3 +1,9 @@
+#         group members
+# Habib Gemmechu section 1 UGR/4012/12
+# Felmeta Muktar section 2 UGR/3555/12
+# Usmael Abdurhaman section 2 UGR/6575/12 
+# Yared Namssi section 3 UGR/1548/12
+
 #p,q stands for the 2 prime numbers used for encryption, m is the totient function
 def isprime(num): # function that check if p and q are prime
     for i in range(2, num//2):
